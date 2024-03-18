@@ -1,3 +1,6 @@
+/* Custom VB version */ 
+/* Source: https://github.com/FinanssektorensUddanelsescenter/list.js */
+
 var List;List =
 /******/ (function() { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
